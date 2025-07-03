@@ -62,4 +62,4 @@ You are free to use, modify, and share the dataset with no restrictions.
 
 ## Author
 
-**Harsh Arora**  
+**Developed by Harsh Arora**  
