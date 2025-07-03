@@ -60,6 +60,10 @@ This project uses data sourced from Kaggle:
 
 You are free to use, modify, and share the dataset with no restrictions.
 
+## License
+
+This project is licensed under the MIT License.
+
 ## Author
 
 **Developed by Harsh Arora**  
