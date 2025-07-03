@@ -1,15 +1,15 @@
-# 📊 Netflix Titles Analysis Dashboard Using Power BI
+# Netflix Titles Analysis Dashboard Using Power BI
 
 This project provides an interactive dashboard built with Power BI to analyze Netflix's content library, focusing on trends, distribution, and performance metrics across content types, release years, and genres.
 
-## 🎯 Objective
+## Objective
 
 To explore and visualize the distribution, trends, and goals related to Netflix content by:
 - Type (Movie or TV Show)
 - Release Year
 - Primary Genre
 
-## 📌 Key Insights & Queries
+## Key Insights & Queries
 
 1. **Total Titles Available**  
    → Total number of titles across all years.
@@ -31,7 +31,7 @@ To explore and visualize the distribution, trends, and goals related to Netflix 
 6. **Genre Distribution**  
    → Horizontal bar chart showing counts by primary genre.
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Power BI Desktop**
 - **DAX Measures** (KPI Goals & Targets)
@@ -40,19 +40,19 @@ To explore and visualize the distribution, trends, and goals related to Netflix 
   - KPI Cards
   - Bar Charts (Vertical & Horizontal)
 
-## 🗂 Files Included
+## Files Included
 
 - `Netflix Titles Analysis Dashboard Using Power BI.pbix` – Power BI source file
 - `Netflix Titles Analysis Dashboard Using Power BI.pdf` – Dashboard report (PDF)
 - `Project Details.pdf` – Summary of project scope and queries
 
-## 📎 Usage
+## Usage
 
 1. Open the `.pbix` file using Power BI Desktop.
 2. Explore filters, charts, and KPIs to derive insights.
 3. Use the report for storytelling or to identify Netflix content trends.
 
-## 📄 License & Dataset Source
+## License & Dataset Source
 
 This project uses data sourced from Kaggle:
 
@@ -60,6 +60,6 @@ This project uses data sourced from Kaggle:
 
 You are free to use, modify, and share the dataset with no restrictions.
 
-## 💡 Author
+## Author
 
 **Harsh Arora**  
