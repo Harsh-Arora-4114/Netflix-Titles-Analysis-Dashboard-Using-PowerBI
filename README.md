@@ -52,13 +52,8 @@ To explore and visualize the distribution, trends, and goals related to Netflix 
 2. Explore filters, charts, and KPIs to derive insights.
 3. Use the report for storytelling or to identify Netflix content trends.
 
-## License & Dataset Source
-
-This project uses data sourced from Kaggle:
-
-> **Source:** [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
-
-You are free to use, modify, and share the dataset with no restrictions.
+## License
+This project is licensed under the MIT License.
 
 ## Author
 
